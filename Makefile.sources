@@ -1,0 +1,2 @@
+MODETEST_FILES := \
+	drm_display_demo.c
